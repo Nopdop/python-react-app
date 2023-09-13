@@ -1,1 +1,0 @@
-# fullstack-pyhton-react-app
