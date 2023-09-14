@@ -1,7 +1,7 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.css';
 
-import { useState, useEffect } from "react";
+import React from "react";
+import { useState, useEffect, } from "react";
 
 function App() {
   const [currentTime, setCurrentTime] = useState(0);
