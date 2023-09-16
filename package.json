@@ -2,7 +2,9 @@
   "name": "@python-react-app/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "npx nx run-many --target=serve --parallel=true --projects=backend,react-webapp"
+  },
   "private": true,
   "dependencies": {
     "@swc/helpers": "~0.5.0",

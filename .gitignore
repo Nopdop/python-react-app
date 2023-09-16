@@ -38,4 +38,3 @@ testem.log
 .DS_Store
 Thumbs.db
 
-wget https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore -o apps/backend/.gitignore

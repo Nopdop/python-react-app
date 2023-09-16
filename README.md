@@ -7,7 +7,7 @@
 
 ## Start the app
 
-To start the development server run `nx serve react-webapp`. Open your browser and navigate to http://localhost:4200/. Happy coding!
+To start both the backend and the frontend, run `npm run start`. Open your browser and navigate to http://localhost:4200/. Happy coding!
 
 
 ## Generate code

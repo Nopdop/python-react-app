@@ -1,9 +1,9 @@
 {
   "version": 2,
   "projects": {
-    "frontend": "apps/react-webapp",
+    "react-webapp": "apps/react-webapp",
     "backend": "apps/backend",
-    "shared": "libs/common",
-    "league-api": "libs/league-endpoints"
+    "common": "libs/common",
+    "league-endpoints": "libs/league-endpoints"
   }
 }
