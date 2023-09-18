@@ -7,6 +7,14 @@
 
 ## Start the app
 
+When first cloning the repo, run `npm install` to install all dependencies. After that, create a `.flaskenv` file in the `apps/backend` directory and add the following content:
+
+```
+FLASK_APP=src/app.py
+FLASK_ENV=development
+```
+
+
 To start both the backend and the frontend, run `npm run start`. Open your browser and navigate to http://localhost:4200/. Happy coding!
 
 
