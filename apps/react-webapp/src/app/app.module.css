@@ -1,1 +1,28 @@
 /* Your styles goes here. */
+.page {
+  background-color: #000;
+  border: 100px solid #000;
+  border-radius: 3px;
+  box-shadow: 0 0 5px #000;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+}
+.border {
+  border: 100px solid #000;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.pill {
+  background-color: #000;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0 5px 5px 0;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
