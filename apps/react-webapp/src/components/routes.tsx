@@ -1,6 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 
-const Index = () => {
+const RoutesIndex = () => {
   return (
     <>
       <nav>
@@ -19,4 +19,4 @@ const Index = () => {
   )
 };
 
-export default Index;
+export default RoutesIndex;
